@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NWU2 on JiaLab</title>
+    <link>https://jialab.life/tags/nwu2/</link>
+    <description>Recent content in NWU2 on JiaLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jialab.life/tags/nwu2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://jialab.life/test/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialab.life/test/</guid>
+      <description>Since Oct. 2023, we&#39;ve settled down at Northwest Univesity. Thank you to everyone who has helped me along the way.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en" data-figures="" data-mode="lit">
   <head>
-<title>Home | JiaLab</title>
+<title>List | JiaLab</title>
 <meta charset="utf-8">
 <meta name="generator" content="Hugo 0.119.0">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,17 +14,16 @@
   gtag('js', new Date());
   gtag('config', 'UA-176023093-1');
 </script>
-  
 <meta property="og:locale" content="en" />
 
-<meta property="og:type" content="website">
-<meta name="description" content="Make life better">
+<meta property="og:type" content="article">
+<meta name="description" content="">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="">
-<meta name="twitter:title" content="Home" />
-<meta property="og:url" content="https://jialab.life/" />
-<meta property="og:title" content="Home" />
-<meta property="og:description" content="Make life better" />
+<meta name="twitter:title" content="List" />
+<meta property="og:url" content="https://jialab.life/categories/list/" />
+<meta property="og:title" content="List" />
+<meta property="og:description" content="" />
 <meta property="og:image" content="https://jialab.life/" />
 <link rel="apple-touch-icon" sizes="180x180" href='https://jialab.life/icons/apple-touch-icon.png'>
 <link rel="icon" type="image/png" sizes="32x32" href='https://jialab.life/icons/favicon-32x32.png'>
@@ -33,7 +32,7 @@
 <meta name="msapplication-TileColor" content="#002538">
 <meta name="theme-color" content="#002538">
 
-<link rel="canonical" href="https://jialab.life/">
+<link rel="canonical" href="https://jialab.life/categories/list/">
     
     
     <link rel="preload" href="https://jialab.life/css/styles.css" integrity = "" as="style" crossorigin="anonymous">
@@ -73,7 +72,7 @@
       
         
 
-  <div class="nav_parent nav_active">
+  <div class="nav_parent">
     <a href="https://jialab.life/" class="nav_item">Home </a>
   </div>
   <div class="nav_parent">
@@ -114,257 +113,15 @@
 
     <main>
 
-  
-
 <div class="grid-inverse wrap content">
   <div>
     
-    <h1 id="welcome-to-jia-lab">Welcome to Jia Lab</h1>
-
-
-
-  
-
-
-<blockquote>
-  Our future is botanic.
-  <span>̶ &nbsp;Kew Gardens.</span>
-</blockquote>
-<!-- > Our future is botanic. **-Kew Gardens** -->
-<p>  Welcome to Jia Lab, where we are dedicated to unraveling the intricate interplay between the evolution of crosstalk in plant defense and nutrition, and pioneering cutting-edge techniques like deep learning and synthetic biology to revolutionize our understanding of plant nutrition. Our research endeavors are at the intersection of biology, data science, and engineering, and we are committed to pushing the boundaries of knowledge in these fields. The keywords of our lab are: <em>plant nutrition</em>, <em>plant evolution</em>, <em>plant-microbe interaction</em>, <em>deep learning</em> and <em>synthetic biology</em>.</p>
-<hr>
-
-
-
-
-
-
-
-
+    <h1 class="page-title">List</h1>
+    <p class="page-description"></p>
     
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
-
-
     
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
-
-
-
-<style>
-#slide-window {
-    position: relative;
-    width: 1200px;
-    height: 750px;
-    overflow: hidden;
-    top: 0px;
-    left: 0px;
-}
-
-#slides-list {
-    width: 1200px;
-    height: 750px;
-    position: absolute;
-    margin: 0px;
-    padding: 0px;
-    -webkit-transform: translate3d(0px, 0px, 0px);
-    transform: translate3d(0px, 0px, 0px);
-    transition: all 0.66s ease;
-    -webkit-transition: all 0.66s ease;
-}
-
-.slide {
-    list-style: none;
-    position: relative;
-    float: left;
-    margin: 0;
-    padding: 0;
-    width: 1200px;
-    height: 750px;
-    background: #ccc;
-    text-align: center;
-    line-height: 100%;
-    background-size: cover;
-    background-position: 50% 50%;
-    color: #fff;
-    -webkit-transform: translate3d(0px, 0px, 0px);
-    -webkit-transform-style: preserve-3d;
-}
-
-.nav {
-    position: relative;
-    z-index: 9;
-    top: 45%;
-    cursor: pointer;
-    color: #fff;
-    opacity: 0.7;
-    transition: all 0.66s ease;
-    -webkit-transition: all 0.66s ease;
-}
-
-.nav:hover {
-    opacity: 1.0;
-}
-
-#left {
-    left: 3%;
-    float: left;
-}
-
-#right {
-    right: 3%;
-    float: right;
-}
-</style>
-
-
-<div id="slide-window">
-    <ol id="slides-list">
-                <li class="slide" style="background-image:url(https://jialab.life/img/homepage/1.jpg);"></li>
-                <li class="slide" style="background-image:url(https://jialab.life/img/homepage/2.jpg);"></li>
-    </ol>
-    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
-    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
-</div>
-
-<script>
-sliderJQuery = jQuery.noConflict();
-sliderJQuery(function( $ ) {
-    $.global = new Object();
-    $.global.total = 0;
-
-    $(document).ready(function () {
-        var slideWindowWidth = $('#slide-window').width();
-        var slideCount = $('#slides-list li').length;
-        var totalSlidesWidth = slideCount * slideWindowWidth;
-
-        $.global.item = 0;
-        $.global.total = slideCount;
-
-        $('.slide').css('width', slideWindowWidth + 'px');
-        $('#slides-list').css('width', totalSlidesWidth + 'px');
-
-        $('#left').click(function () {
-            resetAutoSlide();
-            performSlide('back');
-        });
-
-        $('#right').click(function () {
-            resetAutoSlide();
-            performSlide('forward');
-        });
-
-    });
-
-    function performSlide(direction) {
-        if (direction == 'back') {
-            var nextSlideId = $.global.item - 1;
-        }
-        if (direction == 'forward') {
-            var nextSlideId = $.global.item + 1;
-        }
-
-        if (nextSlideId == -1) {
-             
-            moveCss($.global.total - 1);
-        } else if (nextSlideId == $.global.total) {
-             
-            moveCss(0);
-        } else {
-             
-            moveCss(nextSlideId);
-        }
-    }
-
-    function moveCss(nextSlideId) {
-        var slideWindowWidth = $('#slide-window').width();
-        var margin = slideWindowWidth * nextSlideId;
-
-        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
-
-        $.global.item = nextSlideId;
-    }
-
-    
-      var autoSlide = parseInt("4000", 10);
-      var autoSlideInterval;
-      function resetAutoSlide(){
-        if(autoSlide) {
-          if(autoSlideInterval) {
-            clearInterval(autoSlideInterval);
-          }
-          autoSlideInterval = setInterval(function(){
-            performSlide('forward');
-          }, autoSlide)
-        }
-      }
-      resetAutoSlide();
-});
-</script>
-<hr>
-<h1 id="recent-news">Recent news</h1>
-
     <ul class="posts" id="posts">
       <div class="post-feed" data-infinite-scroll='{ "path": ".next-page-btn", "append": ".post-card", "history": false, "hideNav": ".pagination-wrapper" }'>
-          <article data-aos="fade-up" class="post-card post shine aos-init aos-animate">
-  <a class="post-card-image-link" href="https://jialab.life/hello-nwu/">
-    
-    <img class="post-card-image hover-effect"
-      alt="Hello, NWU"
-      src="https://jialab.life/posts/2023autumn/cover.jpg">
-    
-  </a>
-  <ul class="share">
-    <li><a class="twitter" title="Share by twitter"
-        href="https://twitter.com/share?url=https%3a%2f%2fjialab.life%2fhello-nwu%2f"
-        onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
-        <img src="/icons/twitter.png" alt="twitter">
-      </a>
-    </li>
-    <li><a class="facebook" title="Share by facebook"
-        href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjialab.life%2fhello-nwu%2f"
-        onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
-        <img src="/icons/facebook.svg" alt="facebook">
-      </a>
-    </li>
-    <li><a href="mailto:?subject=Hello%2c%20NWU" class="email"
-        title="Share by Email">
-        <img src="/icons/email.png" alt="email">
-      </a>
-    </li>
-  </ul>
-  <div class="post-card-content ">
-    <div class="post-card-content-link">
-      <header class="post-card-header">
-        <div class="header-container">
-          <div class="post_meta">
-            
-              <a href='https://jialab.life/categories/events' class="post_tag button button_translucent">Events
-              </a>
-          </div>          
-        </div>
-        <h2 class="post-card-title gradient-effect">
-          <a class="card-link" href="https://jialab.life/hello-nwu/">Hello, NWU</a>
-        </h2>
-      </header>
-      <a class="card-link" href="https://jialab.life/hello-nwu/">
-        <section class="post-card-excerpt">
-          <p>
-            
-              We settled down at Northwest University. 2023-10-15
-            
-          </p>
-        </section>
-      </a>
-    </div>
-    <footer class="post-card-meta center">
-      <div class="author-list-item">
-        <a href="/about/" class="footer-color">Xianqing Jia</a>
-      </div>
-      <span class="reading-time">1 min read</span>
-    </footer>
-  </div>
-</article>
           <article data-aos="fade-up" class="post-card post shine aos-init aos-animate">
   <a class="post-card-image-link" href="https://jialab.life/test/">
     
@@ -426,6 +183,10 @@ sliderJQuery(function( $ ) {
 </article>
         
       </div>
+      <li class="pagination-wrapper">
+        
+        
+      </li>
     </ul>
   </div>
 <aside class="sidebar">
