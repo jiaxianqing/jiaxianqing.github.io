@@ -16,23 +16,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Configuration</title>
-      <link>https://jialab.life/tags/config/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialab.life/tags/config/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opengraph</title>
-      <link>https://jialab.life/tags/og/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialab.life/tags/og/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

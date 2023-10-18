@@ -22,12 +22,12 @@
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jialab.life/about/</guid>
-      <description>JiaLab The College of Life Sciences,
-Northwest University (NWU).
+      <description>JiaLab College of Life Sciences,
+Northwest University (NWU)
 Address: 229 Taibaibei Street, Beilin District, Xi&#39;an, Shaanxi 710069, China
 Telephone: +86
 Email: jiaxq.nju@gmail.com [Prof. Xianqing Jia]
-Join Us Now Updated: 2023-10-15
+Join us now Updated: 2023-10-15
 Postdocs or Research assistants If you have a deep passion for the intricate world of plant evolution, synthetic biology, or the captivating of plant-microbe interactions, and are currently seeking a transitional occupation before settling down permanently, feel free to reach out to Xianqing.</description>
     </item>
     
@@ -42,7 +42,7 @@ Postdocs or Research assistants If you have a deep passion for the intricate wor
 2017.09 - 2020.06: PhD. in Biology, Nanjing University
 2014.09 - 2017.06: MEng. in Pharmacy engineering, Nanjing University
 2010.09 - 2014.06: BS. in Biotechnology, Qinghai University
-CV: PDF Email: jiaxq.nju@gmail.com ORCID: 0000-0002-3916-477X Github: https://github.com/jiaxianqing Google Scholar: https://scholar.google.com/citations?user=FL4RJsIAAAAJ&amp;amp;hl=en Master candidates Feiyu Chen A Northwest University and Hangzhou Normal University jointly trained graduate student.</description>
+CV: PDF Email: jiaxq.nju@gmail.com ORCID: 0000-0003-2033-2048 Github: https://github.com/jiaxianqing Google Scholar: https://scholar.google.com/citations?user=FL4RJsIAAAAJ&amp;amp;hl=en Master candidates Feiyu Chen A Northwest University and Hangzhou Normal University jointly trained graduate student.</description>
     </item>
     
     <item>
@@ -83,16 +83,6 @@ Yang, Y., Ren, S., Jia, X., Zeng, H., Wang, L., Zhu, Y.</description>
       <guid>https://jialab.life/tools/</guid>
       <description>* for recommended
 Tools GO analysis agriGOv2 g:Profiler QuickGO REVIGO KEGG analysis KOBAS Pathview Promoter analysis New PLACE PlantPAN 3.0 PlantCARE Subcellular localization Prediction PSI-predictor WoLF PSORT or WoLF PSORT iPSORT cNLS Mapper - Nuclear localization signals (NLSs) SignalP 5.0 - Signal peptide and cleavage sites ChloroP-1.1 - Chloroplast transit peptides and cleavage sites TargetP 2.0 - Mitochondrial, chloroplastic, secretory pathway Plot GSDS2.0 - Gene structure Diagrams - Flow chart Baidu Naotu - Flow chart MapChart - Map chart Evenn - Venn Diagrams ImageGP - Online plot Databases Genome PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 PGSB - Plant Genome and Systems Biology MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database CucCAP – Harnessing genomic resources in cucurbit crops Sol Genomics Network - for Solanaceae Expression BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice Gene function The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice Nature variation - Rice RiceVarMap v2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jialab.life/formeonly/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialab.life/formeonly/</guid>
-      <description>This page is writing instruction for me only.
-Card {{&amp;lt; card title=&#34;Bước 0 - Học lập trình cơ bản với Python&#34; icon=&#34;python.svg&#34;&gt;}}&amp;lt;p style=&#34;width: 100%&#34;&gt;Lập trình là điều đầu tiên bạn cần học để có thể bắt kịp việc thực hành về sau. Python hiện tại là một ngôn ngữ rất phổ biến trong ngành trí tuệ nhân tạo. Có rất nhiều các khoá học được dạy với Python. Do vậy tôi khuyến khích các bạn bắt đầu với ngôn ngữ này.</description>
     </item>
     
   </channel>
