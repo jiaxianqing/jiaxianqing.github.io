@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jialab.life/journals/</loc>
+    <lastmod>2023-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/members/</loc>
+    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/publication/</loc>
+    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/data/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jialab.life/categories/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,17 +38,8 @@
     <loc>https://jialab.life/about/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jialab.life/members/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jialab.life/projects/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jialab.life/publication/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jialab.life/journals/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jialab.life/tools/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
