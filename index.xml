@@ -8,13 +8,22 @@
     <language>en</language>
     <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jialab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>https://jialab.life/publication/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialab.life/publication/</guid>
+      <description># co-first author, * coresponding author
+2024 Zhao, B., Jia, X.#, Yu, N., Murray, J., Yi, K., &amp;amp; Wang, E. (2024) Microbe-dependent and independent nitrogen and phosphate acquisition in plants. New Phytologist, 242(4), 1507–1522. (Featured article) 2023 Yu, J., Wang, L., Jia, X., Wang, Z., Yu, X., Ren, S., Yang, Y., Ye, X., Wu, X., Yi, K., &amp;amp; Zhu, Y. (2023). Different microbial assembly between cultivated and wild tomatoes under P stress.</description>
+    </item>
+    
+    <item>
       <title>Relevant journals</title>
       <link>https://jialab.life/journals/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jialab.life/journals/</guid>
-      <description>P.S. If you have anything to add to this list, please let Xianqing know.
-Research Journals Multidisciplinary Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Proceedings of the Royal Society B: Biological Sciences National Science Review Science Bulletin Science China Life Sciences The Innovation Research Plants Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal Plant Communications Genetics and Genomics Nature Genetics Genome Biology Cell Genomics Nucleic Acids Research Genome Research Genes &amp;amp; Development PLOS Genetics GigaScience Genetics Theoretical and Applied Genetics Journal of Genetics and Genomics Ecology and Evolution Nature Ecology &amp;amp; Evolution Molecular Biology and Evolution Molecular Systems Biology Cell Systems Systematic Biology Evolution Letters Molecular Ecology Molecular Ecology Resources Frontiers in Ecology and the Environment Journal of Ecology Methods in Ecology and Evolution Microbiology Nature Microbiology Cell Host &amp;amp; Microbe The ISME Journal Microbiome PLOS Pathogens mBio npj Biofilms and Microbiomes Environment and Sustainability Nature Climate Change Nature Sustainability Nature Geoscience Nature Food Nature Water One Earth Environmental Science &amp;amp; Technology Water Research Global Change Biology Global Environmental Change Soil Biology and Biochemistry Environment International Review Journals Annual Review of Plant Biology Annual Review of Phytopathology Annual Review of Cell and Developmental Biology Annual Review of Ecology, Evolution, and Systematics Annual Review of Genetics Annual Review of Microbiology Trends in Cell Biology Trends in Genetics Trends in Ecology &amp;amp; Evolution Trends in Plant Science Trends in Biotechnology Trends in Microbiology Nature Reviews Genetics Nature Reviews Microbiology Nature Reviews Molecular Cell Biology Nature Reviews Earth &amp;amp; Environment Current Opinion in Plant Biology Current Opinion in Biotechnology </description>
+      <description>Research Journals Multidisciplinary Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Proceedings of the Royal Society B: Biological Sciences National Science Review Science Bulletin Science China Life Sciences The Innovation Research Plants Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal Plant Communications Agriculture Nature Food Agriculture Communications Journal of Integrative Agriculture Horticulture Research Plant and Soil Soil Science and Environment Field Crops Research The Crop Journal Genetics and Genomics Nature Genetics Genome Biology Cell Genomics Nucleic Acids Research Genome Research Genes &amp;amp; Development PLOS Genetics GigaScience Genetics Theoretical and Applied Genetics Journal of Genetics and Genomics Ecology and Evolution Nature Ecology &amp;amp; Evolution Molecular Biology and Evolution Molecular Systems Biology Cell Systems Systematic Biology Evolution Letters Molecular Ecology Molecular Ecology Resources Frontiers in Ecology and the Environment Journal of Ecology Methods in Ecology and Evolution Microbiology Nature Microbiology Cell Host &amp;amp; Microbe The ISME Journal Microbiome PLOS Pathogens mBio npj Biofilms and Microbiomes Design Biology Nature Synthesis BioDesign Research Synthetic and Systems Biotechnology ACS Synthetic Biology Synthetic Biology Environment and Sustainability Nature Climate Change Nature Sustainability Nature Geoscience Nature Water One Earth Environmental Science &amp;amp; Technology Water Research Global Change Biology Global Environmental Change Environment International Review Journals Annual Review of Plant Biology Annual Review of Phytopathology Annual Review of Cell and Developmental Biology Annual Review of Ecology, Evolution, and Systematics Annual Review of Genetics Annual Review of Microbiology Trends in Cell Biology Trends in Genetics Trends in Ecology &amp;amp; Evolution Trends in Plant Science Trends in Biotechnology Trends in Microbiology Nature Reviews Genetics Nature Reviews Microbiology Nature Reviews Molecular Cell Biology Nature Reviews Earth &amp;amp; Environment Current Opinion in Plant Biology Current Opinion in Biotechnology Current Opinion in Systems Biology P.</description>
     </item>
     
     <item>
@@ -29,17 +38,6 @@ Research Journals Multidisciplinary Cell Cell Reports Current Biology Developmen
 2014.09 - 2020.06: Ms. &amp;amp; PhD. in Biology, Nanjing University GATTACA Lab
 2010.09 - 2014.06: BS. in Biotechnology, Qinghai University
 CV: PDF Email: jiaxianqing@nwu.edu.cn ORCID: 0000-0003-2033-2048 Github: https://github.com/jiaxianqing Google Scholar: https://scholar.google.com/citations?user=FL4RJsIAAAAJ&amp;amp;hl=en Master candidates Feiyu Chen A Northwest University and Hangzhou Normal University jointly trained graduate student.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://jialab.life/publication/</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialab.life/publication/</guid>
-      <description># co-first author, * coresponding author
-2023 Yu, J., Wang, L., Jia, X., Wang, Z., Yu, X., Ren, S., Yang, Y., Ye, X., Wu, X., Yi, K., &amp;amp; Zhu, Y. (2023). Different microbial assembly between cultivated and wild tomatoes under P stress. Soil Science and Environment, 2(1), SSE-2023-0010.
-Zhao, B., Jia, X.#, Yu, N., Murray, J., Yi, K., &amp;amp; Wang, E. (2023) Microbe-dependent and independent nitrogen and phosphate acquisition in plants.</description>
     </item>
     
     <item>
@@ -87,11 +85,11 @@ Postdocs or Research assistants If you have a deep passion for the intricate wor
     <item>
       <title>Tools and Databases</title>
       <link>https://jialab.life/tools/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jialab.life/tools/</guid>
       <description>* for recommended
-Tools GO analysis agriGOv2 g:Profiler QuickGO REVIGO KEGG analysis KOBAS Pathview Promoter analysis New PLACE PlantPAN 3.0 PlantCARE Subcellular localization Prediction PSI-predictor WoLF PSORT or WoLF PSORT iPSORT cNLS Mapper - Nuclear localization signals (NLSs) SignalP 5.0 - Signal peptide and cleavage sites ChloroP-1.1 - Chloroplast transit peptides and cleavage sites TargetP 2.0 - Mitochondrial, chloroplastic, secretory pathway Plot GSDS2.0 - Gene structure Diagrams - Flow chart Baidu Naotu - Flow chart MapChart - Map chart Evenn - Venn Diagrams ImageGP - Online plot Databases Genome PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 PGSB - Plant Genome and Systems Biology MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database CucCAP – Harnessing genomic resources in cucurbit crops Sol Genomics Network - for Solanaceae Expression BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice Gene function The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice Nature variation - Rice RiceVarMap v2.</description>
+Tools GO analysis agriGOv2 g:Profiler QuickGO REVIGO KEGG analysis KOBAS Pathview Promoter analysis New PLACE PlantPAN 3.0 PlantCARE Subcellular localization Prediction PSI-predictor WoLF PSORT or WoLF PSORT iPSORT cNLS Mapper - Nuclear localization signals (NLSs) SignalP 5.0 - Signal peptide and cleavage sites ChloroP-1.1 - Chloroplast transit peptides and cleavage sites TargetP 2.0 - Mitochondrial, chloroplastic, secretory pathway Plot GSDS2.0 - Gene structure Diagrams - Flow chart Baidu Naotu - Flow chart MapChart - Map chart Evenn - Venn Diagrams ImageGP - Online plot Databases Genome PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 PGSB - Plant Genome and Systems Biology MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database CucCAP – Harnessing genomic resources in cucurbit crops Sol Genomics Network - for Solanaceae LettuceGDB - for Lettuce LettuceDB - for Lettuce Lettuce Genome Resource (LGR) - for Lettuce Expression BAR* CoNekT* CoNekT - diurnal-tools Plant Regulomics Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice Gene function The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice Nature variation - Rice RiceVarMap v2.</description>
     </item>
     
   </channel>
