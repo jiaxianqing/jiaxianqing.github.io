@@ -4,17 +4,37 @@
     <title>Tags on JiaLab</title>
     <link>https://jialab.life/tags/</link>
     <description>Recent content in Tags on JiaLab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jialab.life/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jialab.life/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microbiota</title>
+      <link>https://jialab.life/tags/microbiota/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jialab.life/tags/microbiota/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Root Growth</title>
+      <link>https://jialab.life/tags/root-growth/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jialab.life/tags/root-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salicylic Acid</title>
+      <link>https://jialab.life/tags/salicylic-acid/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jialab.life/tags/salicylic-acid/</guid>
+      <description></description>
+    </item>
     <item>
       <title>NWU</title>
       <link>https://jialab.life/tags/nwu/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://jialab.life/tags/nwu/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

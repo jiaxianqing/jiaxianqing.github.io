@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jialab.life/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jialab.life/publication/</loc>
-    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jialab.life/journals/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
@@ -15,7 +18,28 @@
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jialab.life/categories/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/tags/microbiota/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/posts/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/our-first-paper-at-nwu-was-published-in-jipb/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/categories/publications/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/tags/root-growth/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/tags/salicylic-acid/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jialab.life/tags/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jialab.life/categories/events/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
@@ -23,16 +47,7 @@
     <loc>https://jialab.life/hello-nwu/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jialab.life/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jialab.life/posts/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jialab.life/tags/nwu/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jialab.life/tags/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jialab.life/about/</loc>
