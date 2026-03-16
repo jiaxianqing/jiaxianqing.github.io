@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Plant IDEA Lab</title>
-    <link>https://plant-idea.cc/series/</link>
+    <link>https://jiaxianqing.github.io/series/</link>
     <description>Recent content in Series on Plant IDEA Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://plant-idea.cc/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jiaxianqing.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
