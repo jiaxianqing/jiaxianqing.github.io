@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio-design on Plant IDEA Lab</title>
+    <link>https://plant-idea.cc/tags/bio-design/</link>
+    <description>Recent content in Bio-design on Plant IDEA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plant-idea.cc/tags/bio-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Congrats to Yao and others!</title>
+      <link>https://plant-idea.cc/congrats-to-yao-and-others/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plant-idea.cc/congrats-to-yao-and-others/</guid>
+      <description>Lu, Y., Li, J., Yi, K., &amp;amp; Jia, X. (2026). Programmable plant nutrition through synthetic transportome engineering. Journal of Plant Physiology, 326, 154874. https://doi.org/10.1016/j.jplph.2026.154874&#xA;Title: Programmable plant nutrition through synthetic transportome engineering&#xA;Authors: Yao Lu, Jia Li, Keke Yi, Xianqing Jia&#xA;Abstract: Plant nutrient homeostasis emerges from the coordinated transport, partitioning, and storage of nutrients across cellular compartments, tissues, and developmental stages. These processes form an interconnected transport system in which local changes in nutrient uptake, redistribution, or sequestration can propagate across biological scales and ultimately shape whole-plant nutrient status and growth.</description>
+    </item>
+  </channel>
+</rss>

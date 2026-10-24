@@ -2,14 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://plant-idea.cc/</loc>
-    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plant-idea.cc/publication/</loc>
-    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+    <loc>https://plant-idea.cc/tags/abiotic-stress/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/categories/</loc>
-    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/ipnbase-a-new-resource-released/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/posts/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/tags/plant-nutrition/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/tags/resource/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/categories/resource/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/tags/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/congrats-to-yuhang-and-others/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/categories/publications/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/resources/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/tags/review/</loc>
+    <lastmod>2026-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/publication/</loc>
+    <lastmod>2026-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/tags/bio-design/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plant-idea.cc/congrats-to-yao-and-others/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/congrats-to-feiyu-shurui-yanlin-yaru-and-zixin-on-their-graduation/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
@@ -23,13 +62,7 @@
     <loc>https://plant-idea.cc/members/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plant-idea.cc/posts/</loc>
-    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plant-idea.cc/tags/nwu/</loc>
-    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plant-idea.cc/tags/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/new-lab-members-and-new-lab-name/</loc>
@@ -37,9 +70,6 @@
   </url><url>
     <loc>https://plant-idea.cc/projects/</loc>
     <lastmod>2026-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plant-idea.cc/tags/abiotic-stress/</loc>
-    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/tags/alpine-plants/</loc>
     <lastmod>2026-03-12T00:00:00+00:00</lastmod>
@@ -50,16 +80,10 @@
     <loc>https://plant-idea.cc/tags/flower/</loc>
     <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plant-idea.cc/categories/publications/</loc>
-    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plant-idea.cc/nutrinext-2025-workshop/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/congrats-to-shurui-and-others/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plant-idea.cc/tags/review/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/tags/root-growth/</loc>
@@ -79,9 +103,6 @@
   </url><url>
     <loc>https://plant-idea.cc/tags/salicylic-acid/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plant-idea.cc/data/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plant-idea.cc/hello-nwu/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>

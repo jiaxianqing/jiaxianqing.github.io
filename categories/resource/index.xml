@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource on Plant IDEA Lab</title>
+    <link>https://plant-idea.cc/categories/resource/</link>
+    <description>Recent content in Resource on Plant IDEA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plant-idea.cc/categories/resource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPNbase - a new resource released!</title>
+      <link>https://plant-idea.cc/ipnbase-a-new-resource-released/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plant-idea.cc/ipnbase-a-new-resource-released/</guid>
+      <description>The IPNbase database is released now. Welcome to visit, test, and provide feedback. Contacted by Xianqing.&#xA;Integrative Plant Nutrition (IPN) is based on the premise that plant nutrition should be understood not as a collection of isolated nutrient pathways, but as an interconnected system operating across biological scales and environmental contexts.&#xA;To translate the IPN concept into a practical research resource, we developed IPNbase, an integrated platform for organizing, analyzing, and exploring plant nutrition data across nutrients, species, and data types.</description>
+    </item>
+  </channel>
+</rss>
