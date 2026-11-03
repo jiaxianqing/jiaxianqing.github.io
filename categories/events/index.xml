@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Events on Plant IDEA Lab</title>
-    <link>https://plant-idea.cc/categories/events/</link>
-    <description>Recent content in Events on Plant IDEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://plant-idea.cc/categories/events/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Congrats to Feiyu, Shurui, Yanlin, Yaru, and Zixin on their graduation!</title>
-      <link>https://plant-idea.cc/congrats-to-feiyu-shurui-yanlin-yaru-and-zixin-on-their-graduation/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/congrats-to-feiyu-shurui-yanlin-yaru-and-zixin-on-their-graduation/</guid>
-      <description>Congratulations and well done! Hope the future will bring you further success and a whole world of happiness!</description>
-    </item>
-    <item>
-      <title>New Lab members and new Lab name!</title>
-      <link>https://plant-idea.cc/new-lab-members-and-new-lab-name/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/new-lab-members-and-new-lab-name/</guid>
-      <description>We warmly welcome Xuan and Yi to join us! We are aslo proud to announce that we have integrated our research directions and accordingly changed the name of our laboratory to &amp;quot;Plant IDEA Lab&amp;quot;.&#xA;Plant IDEA Lab: Plant Interactions, Design, and Environmental Adaptation&#xA;Our lab aims to investigate how plants sense, respond to, and adapt to their environment. Our research integrates plant evolution, nutrient signaling, and plant-environment interactions with cutting-edge approaches in design biology and synthetic biology.</description>
-    </item>
-    <item>
-      <title>NutriNext 2025 Workshop</title>
-      <link>https://plant-idea.cc/nutrinext-2025-workshop/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/nutrinext-2025-workshop/</guid>
-      <description>The 2025 International Young Scientist Workshop on Plant Nutrition (NutriNext 2025), was successfully held in NWU, Xi&#39;an.</description>
-    </item>
-    <item>
-      <title>Hello, NWU</title>
-      <link>https://plant-idea.cc/hello-nwu/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/hello-nwu/</guid>
-      <description>Since Oct. 2023, we have settled down at Northwest Univesity, Xi&#39;an. Thank you to everyone who has helped me along the way.&#xA;All photos by Ms. Xinyue Lyu.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Events on Plant IDEA Lab</title>
+		<link>https://plant-idea.cc/categories/events/</link>
+		<description>Recent content in Events on Plant IDEA Lab</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://plant-idea.cc/categories/events/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Congrats to Feiyu, Shurui, Yanlin, Yaru, and Zixin on their graduation!</title>
+				<link>https://plant-idea.cc/congrats-to-feiyu-shurui-yanlin-yaru-and-zixin-on-their-graduation/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/congrats-to-feiyu-shurui-yanlin-yaru-and-zixin-on-their-graduation/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Congratulations and well done! Hope the future will bring you further success and a whole world of happiness!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;div align=&#34;center&#34;&gt;&#xA;&lt;img src=https://plant-idea.cc/posts/2026graduation/Figure1.jpg width=60% /&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>New Lab members and new Lab name!</title>
+				<link>https://plant-idea.cc/new-lab-members-and-new-lab-name/</link>
+				<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/new-lab-members-and-new-lab-name/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;We warmly welcome &lt;strong&gt;Xuan&lt;/strong&gt; and &lt;strong&gt;Yi&lt;/strong&gt; to join us! We are aslo proud to announce that we have integrated our research directions and accordingly changed the name of our laboratory to &lt;u&gt;&lt;strong&gt;&amp;ldquo;Plant IDEA Lab&amp;rdquo;&lt;/strong&gt;&lt;/u&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Plant IDEA Lab&lt;/strong&gt;: &lt;strong&gt;Plant&lt;/strong&gt; &lt;u&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/u&gt;nteractions, &lt;u&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;/u&gt;esign, and &lt;u&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;/u&gt;nvironmental &lt;u&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/u&gt;daptation&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>NutriNext 2025 Workshop</title>
+				<link>https://plant-idea.cc/nutrinext-2025-workshop/</link>
+				<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/nutrinext-2025-workshop/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;The 2025 International Young Scientist Workshop on Plant Nutrition (NutriNext 2025), was successfully held in NWU, Xi&amp;rsquo;an.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;lab-carousel&#34; data-auto-slide=&#34;4000&#34; role=&#34;region&#34; aria-roledescription=&#34;carousel&#34; aria-label=&#34;Photo gallery&#34;&gt;&#xA;  &lt;div class=&#34;lab-carousel-viewport&#34;&gt;&lt;div class=&#34;lab-carousel-slide is-active&#34; aria-hidden=&#34;false&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2025workshop/MVIMG_20251206_100831.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;0&#34; aria-label=&#34;Open photo 1 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2025workshop/MVIMG_20251206_100831.jpg&#34; alt=&#34;Lab gallery photo 1 of 3&#34; loading=&#34;eager&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2025workshop/MVIMG_20251206_115554.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 2 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2025workshop/MVIMG_20251206_115554.jpg&#34; alt=&#34;Lab gallery photo 2 of 3&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2025workshop/Picture1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 3 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2025workshop/Picture1.jpg&#34; alt=&#34;Lab gallery photo 3 of 3&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;button class=&#34;lab-carousel-arrow lab-carousel-prev&#34; type=&#34;button&#34; data-carousel-prev aria-label=&#34;Previous photo&#34;&gt;&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;20&#34; height=&#34;20&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34;&gt;&lt;path d=&#34;M15 5 8 12l7 7&#34;/&gt;&lt;/svg&gt;&lt;/button&gt;&#xA;      &lt;button class=&#34;lab-carousel-arrow lab-carousel-next&#34; type=&#34;button&#34; data-carousel-next aria-label=&#34;Next photo&#34;&gt;&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;20&#34; height=&#34;20&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34;&gt;&lt;path d=&#34;m9 5 7 7-7 7&#34;/&gt;&lt;/svg&gt;&lt;/button&gt;&#xA;      &lt;span class=&#34;lab-carousel-counter&#34; data-carousel-counter aria-live=&#34;polite&#34;&gt;1 / 3&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;lab-carousel-dots&#34; role=&#34;group&#34; aria-label=&#34;Select gallery photo&#34;&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;0&#34; class=&#34;lab-carousel-dot is-active&#34; aria-label=&#34;Show photo 1&#34; aria-pressed=&#34;true&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;1&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 2&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;2&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 3&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Hello, NWU</title>
+				<link>https://plant-idea.cc/hello-nwu/</link>
+				<pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/hello-nwu/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Since Oct. 2023, we have settled down at Northwest Univesity, Xi&amp;rsquo;an. Thank you to everyone who has helped me along the way.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;lab-carousel&#34; data-auto-slide=&#34;4000&#34; role=&#34;region&#34; aria-roledescription=&#34;carousel&#34; aria-label=&#34;Photo gallery&#34;&gt;&#xA;  &lt;div class=&#34;lab-carousel-viewport&#34;&gt;&lt;div class=&#34;lab-carousel-slide is-active&#34; aria-hidden=&#34;false&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;0&#34; aria-label=&#34;Open photo 1 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/1.jpg&#34; alt=&#34;Lab gallery photo 1 of 8&#34; loading=&#34;eager&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/2.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 2 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/2.jpg&#34; alt=&#34;Lab gallery photo 2 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/3.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 3 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/3.jpg&#34; alt=&#34;Lab gallery photo 3 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/4.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 4 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/4.jpg&#34; alt=&#34;Lab gallery photo 4 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/5.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 5 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/5.jpg&#34; alt=&#34;Lab gallery photo 5 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/6.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 6 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/6.jpg&#34; alt=&#34;Lab gallery photo 6 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/7.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 7 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/7.jpg&#34; alt=&#34;Lab gallery photo 7 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;div class=&#34;lab-carousel-slide&#34; aria-hidden=&#34;true&#34;&gt;&#xA;        &lt;a href=&#34;https://plant-idea.cc/img/2023autumn/8.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; tabindex=&#34;-1&#34; aria-label=&#34;Open photo 8 in a new tab&#34;&gt;&lt;img src=&#34;https://plant-idea.cc/img/2023autumn/8.jpg&#34; alt=&#34;Lab gallery photo 8 of 8&#34; loading=&#34;lazy&#34;&gt;&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;button class=&#34;lab-carousel-arrow lab-carousel-prev&#34; type=&#34;button&#34; data-carousel-prev aria-label=&#34;Previous photo&#34;&gt;&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;20&#34; height=&#34;20&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34;&gt;&lt;path d=&#34;M15 5 8 12l7 7&#34;/&gt;&lt;/svg&gt;&lt;/button&gt;&#xA;      &lt;button class=&#34;lab-carousel-arrow lab-carousel-next&#34; type=&#34;button&#34; data-carousel-next aria-label=&#34;Next photo&#34;&gt;&lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;20&#34; height=&#34;20&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34;&gt;&lt;path d=&#34;m9 5 7 7-7 7&#34;/&gt;&lt;/svg&gt;&lt;/button&gt;&#xA;      &lt;span class=&#34;lab-carousel-counter&#34; data-carousel-counter aria-live=&#34;polite&#34;&gt;1 / 8&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;lab-carousel-dots&#34; role=&#34;group&#34; aria-label=&#34;Select gallery photo&#34;&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;0&#34; class=&#34;lab-carousel-dot is-active&#34; aria-label=&#34;Show photo 1&#34; aria-pressed=&#34;true&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;1&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 2&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;2&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 3&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;3&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 4&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;4&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 5&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;5&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 6&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;6&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 7&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;button type=&#34;button&#34; data-carousel-dot=&#34;7&#34; class=&#34;lab-carousel-dot&#34; aria-label=&#34;Show photo 8&#34; aria-pressed=&#34;false&#34;&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;All photos by Ms. Xinyue Lyu.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

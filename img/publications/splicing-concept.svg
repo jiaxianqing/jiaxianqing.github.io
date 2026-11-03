@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fafb"/><stop offset="1" stop-color="#e4f0f6"/></linearGradient>
+  <linearGradient id="deep" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#125877"/><stop offset="1" stop-color="#3496a7"/></linearGradient>
+  <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5d58d"/><stop offset="1" stop-color="#408b80"/></linearGradient>
+</defs><rect width="800" height="520" rx="24" fill="url(#bg)"/><g opacity=".16" fill="none" stroke="#337d97" stroke-width="2"><circle cx="690" cy="90" r="65"/><circle cx="700" cy="85" r="103"/><circle cx="94" cy="422" r="71"/></g>
+<text x="52" y="67" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#1c5871" letter-spacing="2">TRANSCRIPT ISOFORMS</text>
+<path d="M90 192 H705" stroke="#92bfcc" stroke-width="8" stroke-linecap="round"/>
+<rect x="105" y="163" width="133" height="58" rx="9" fill="#2d7994"/><rect x="310" y="163" width="98" height="58" rx="9" fill="#68a7b5"/><rect x="493" y="163" width="170" height="58" rx="9" fill="#6e9d76"/>
+<path d="M165 251 C230 295 340 300 385 342" stroke="#498b9c" stroke-width="5" fill="none" stroke-dasharray="9 10"/>
+<path d="M560 251 C535 295 485 300 470 342" stroke="#498b9c" stroke-width="5" fill="none" stroke-dasharray="9 10"/>
+<path d="M126 368 H647" stroke="#adcbd3" stroke-width="7" stroke-linecap="round"/>
+<rect x="126" y="339" width="159" height="58" rx="9" fill="#2d7994"/><rect x="390" y="339" width="203" height="58" rx="9" fill="#6e9d76"/>
+<g fill="#f7fcff" opacity=".85"><circle cx="154" cy="192" r="5"/><circle cx="350" cy="192" r="5"/><circle cx="538" cy="192" r="5"/><circle cx="164" cy="367" r="5"/><circle cx="442" cy="367" r="5"/></g></svg>

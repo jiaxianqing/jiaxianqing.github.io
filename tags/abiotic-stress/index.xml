@@ -1,40 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abiotic stress on Plant IDEA Lab</title>
-    <link>https://plant-idea.cc/tags/abiotic-stress/</link>
-    <description>Recent content in Abiotic stress on Plant IDEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://plant-idea.cc/tags/abiotic-stress/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IPNbase - a new resource released!</title>
-      <link>https://plant-idea.cc/ipnbase-a-new-resource-released/</link>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/ipnbase-a-new-resource-released/</guid>
-      <description>The IPNbase database is released now. Welcome to visit, test, and provide feedback. Contacted by Xianqing.&#xA;Integrative Plant Nutrition (IPN) is based on the premise that plant nutrition should be understood not as a collection of isolated nutrient pathways, but as an interconnected system operating across biological scales and environmental contexts.&#xA;To translate the IPN concept into a practical research resource, we developed IPNbase, an integrated platform for organizing, analyzing, and exploring plant nutrition data across nutrients, species, and data types.</description>
-    </item>
-    <item>
-      <title>Congrats to Yuhang and others!</title>
-      <link>https://plant-idea.cc/congrats-to-yuhang-and-others/</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/congrats-to-yuhang-and-others/</guid>
-      <description>Meng, Y., Chen, F., Lu, Y., Wang, L., Yi, K., Jia, X., &amp;amp; Yuan, Y. (2026). Alternative splicing as an evolvable regulatory layer in plant adaptation and evolution. Horticulture Research, uhag453. https://doi.org/10.1093/hr/uhag453&#xA;Title: Alternative splicing as an evolvable regulatory layer in plant adaptation and evolution&#xA;Authors: Meng, Y., Chen, F., Lu, Y., Wang, L., Yi, K., Jia, X., &amp;amp; Yuan, Y.&#xA;Abstract: Alternative splicing (AS) is a pervasive post-transcriptional regulatory mechanism that expands transcriptomic and proteomic diversity by generating multiple isoforms from a single gene.</description>
-    </item>
-    <item>
-      <title>Congrats to Yi and others!</title>
-      <link>https://plant-idea.cc/congrats-to-yi-and-others/</link>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/congrats-to-yi-and-others/</guid>
-      <description>YangJin, L., Yuan, Y., Zeng, S., Hu, G., Du, M., Xiong, H., Jia, X., &amp;amp; Duan, R. (2026). Adaptive genome evolution and metabolic rewiring in the highland poppy Meconopsis integrifolia. Horticulture Research, uhag045. https://doi.org/10.1093/hr/uhag045&#xA;Title: Adaptive genome evolution and metabolic rewiring in the highland poppy Meconopsis integrifolia&#xA;Authors: Lamu YangJin, Yi Yuan, Siheng Zeng, Guojin Hu, Mingyang Du, Huiyan Xiong, Xianqing Jia, Ruijun Duan&#xA;Abstract:&#xA;News:&#xA;Assessment of M. integrifolia genome assembly, annotation, analysis of petal metabolites, and evolution of morphine and noscapine biosynthesis.</description>
-    </item>
-    <item>
-      <title>Congrats to Shurui and others!</title>
-      <link>https://plant-idea.cc/congrats-to-shurui-and-others/</link>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/congrats-to-shurui-and-others/</guid>
-      <description>Zhang, S., Wang, Y., Lu, Y., Yuan, S., Wang, L., Xu, L., Yi, K., &amp;amp; Jia, X. (2025). Plant STOP1 family: A helmsman in the soil multiple stress adaptation. Plant and Soil. https://doi.org/10.1007/s11104-025-07807-7&#xA;Title: Plant STOP1 family: a helmsman in the soil multiple stress adaptation&#xA;Authors: Shurui Zhang, Yanlin Wang, Yao Lu, Shuai Yuan, Long Wang, Lei Xu, Keke Yi, Xianqing Jia&#xA;Abstract: Abiotic stresses significantly reduce crop yields worldwide, with common stressors including drought, flooding, hypoxia, nutrient deficiency, as well as proton and heavy metal toxicity.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Abiotic Stress on Plant IDEA Lab</title>
+		<link>https://plant-idea.cc/tags/abiotic-stress/</link>
+		<description>Recent content in Abiotic Stress on Plant IDEA Lab</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://plant-idea.cc/tags/abiotic-stress/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PhytoStress is released now!</title>
+				<link>https://plant-idea.cc/phytostress-is-released-now/</link>
+				<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/phytostress-is-released-now/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;strong&gt;PhytoStress&lt;/strong&gt; database is released now. Welcome to visit, test, and provide feedback. Contacted by &lt;a href=&#34;https://plant-idea.cc/members/#xianqing-jia&#34;&gt;&lt;strong&gt;Xianqing&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;To translate the IPN concept into a practical research resource, we developed &lt;a href=&#34;https://phytostress.plant-idea.cc&#34;&gt;&lt;strong&gt;PhytoStress&lt;/strong&gt;&lt;/a&gt;, an integrated platform for organizing, analyzing, and exploring plant nutrition data across nutrients, species, and data types.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IPNbase - a new resource released!</title>
+				<link>https://plant-idea.cc/ipnbase-a-new-resource-released/</link>
+				<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/ipnbase-a-new-resource-released/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;The &lt;strong&gt;IPNbase&lt;/strong&gt; database is released now. Welcome to visit, test, and provide feedback. Contacted by &lt;a href=&#34;https://plant-idea.cc/members/#xianqing-jia&#34;&gt;&lt;strong&gt;Xianqing&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Integrative Plant Nutrition (IPN)&lt;/strong&gt; is based on the premise that plant nutrition should be understood not as a collection of isolated nutrient pathways, but as an interconnected system operating across biological scales and environmental contexts.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Congrats to Yuhang and others!</title>
+				<link>https://plant-idea.cc/congrats-to-yuhang-and-others/</link>
+				<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/congrats-to-yuhang-and-others/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Meng, Y., Chen, F., Lu, Y., Wang, L., Yi, K., Jia, X., &amp;amp; Yuan, Y. (2026). Alternative splicing as an evolvable regulatory layer in plant adaptation and evolution. &lt;em&gt;&lt;strong&gt;Horticulture Research&lt;/strong&gt;&lt;/em&gt;, uhag453. &lt;a href=&#34;https://doi.org/10.1093/hr/uhag453&#34;&gt;https://doi.org/10.1093/hr/uhag453&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Alternative splicing as an evolvable regulatory layer in plant adaptation and evolution&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Congrats to Yi and others!</title>
+				<link>https://plant-idea.cc/congrats-to-yi-and-others/</link>
+				<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/congrats-to-yi-and-others/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;YangJin, L., Yuan, Y., Zeng, S., Hu, G., Du, M., Xiong, H., Jia, X., &amp;amp; Duan, R. (2026). Adaptive genome evolution and metabolic rewiring in the highland poppy Meconopsis integrifolia. &lt;em&gt;&lt;strong&gt;Horticulture Research&lt;/strong&gt;&lt;/em&gt;, uhag045. &lt;a href=&#34;https://doi.org/10.1093/hr/uhag045&#34;&gt;https://doi.org/10.1093/hr/uhag045&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Adaptive genome evolution and metabolic rewiring in the highland poppy Meconopsis integrifolia&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Congrats to Shurui and others!</title>
+				<link>https://plant-idea.cc/congrats-to-shurui-and-others/</link>
+				<pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/congrats-to-shurui-and-others/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Zhang, S., Wang, Y., Lu, Y., Yuan, S., Wang, L., Xu, L., Yi, K., &amp;amp; Jia, X. (2025). Plant STOP1 family: A helmsman in the soil multiple stress adaptation. &lt;em&gt;&lt;strong&gt;Plant and Soil&lt;/strong&gt;&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1007/s11104-025-07807-7&#34;&gt;https://doi.org/10.1007/s11104-025-07807-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Plant STOP1 family: a helmsman in the soil multiple stress adaptation&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

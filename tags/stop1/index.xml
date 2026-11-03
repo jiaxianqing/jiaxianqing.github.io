@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>STOP1 on Plant IDEA Lab</title>
-    <link>https://plant-idea.cc/tags/stop1/</link>
-    <description>Recent content in STOP1 on Plant IDEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://plant-idea.cc/tags/stop1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Congrats to Shurui and others!</title>
-      <link>https://plant-idea.cc/congrats-to-shurui-and-others/</link>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://plant-idea.cc/congrats-to-shurui-and-others/</guid>
-      <description>Zhang, S., Wang, Y., Lu, Y., Yuan, S., Wang, L., Xu, L., Yi, K., &amp;amp; Jia, X. (2025). Plant STOP1 family: A helmsman in the soil multiple stress adaptation. Plant and Soil. https://doi.org/10.1007/s11104-025-07807-7&#xA;Title: Plant STOP1 family: a helmsman in the soil multiple stress adaptation&#xA;Authors: Shurui Zhang, Yanlin Wang, Yao Lu, Shuai Yuan, Long Wang, Lei Xu, Keke Yi, Xianqing Jia&#xA;Abstract: Abiotic stresses significantly reduce crop yields worldwide, with common stressors including drought, flooding, hypoxia, nutrient deficiency, as well as proton and heavy metal toxicity.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>STOP1 on Plant IDEA Lab</title>
+		<link>http://localhost:1313/tags/stop1/</link>
+		<description>Recent content in STOP1 on Plant IDEA Lab</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/stop1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Congrats to Shurui and others!</title>
+				<link>http://localhost:1313/congrats-to-shurui-and-others/</link>
+				<pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/congrats-to-shurui-and-others/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Zhang, S., Wang, Y., Lu, Y., Yuan, S., Wang, L., Xu, L., Yi, K., &amp;amp; Jia, X. (2025). Plant STOP1 family: A helmsman in the soil multiple stress adaptation. Plant and Soil. &lt;a href=&#34;https://doi.org/10.1007/s11104-025-07807-7&#34;&gt;https://doi.org/10.1007/s11104-025-07807-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Plant STOP1 family: a helmsman in the soil multiple stress adaptation&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

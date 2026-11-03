@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fafb"/><stop offset="1" stop-color="#e4f0f6"/></linearGradient>
+  <linearGradient id="deep" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#125877"/><stop offset="1" stop-color="#3496a7"/></linearGradient>
+  <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5d58d"/><stop offset="1" stop-color="#408b80"/></linearGradient>
+</defs><rect width="800" height="520" rx="24" fill="url(#bg)"/><g opacity=".12" stroke="#397f98" fill="none" stroke-width="2"><circle cx="620" cy="155" r="115"/><circle cx="620" cy="155" r="170"/></g>
+<text x="52" y="67" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#1c5871" letter-spacing="2">NUTRIENT FLUX DESIGN</text>
+<path d="M399 116 C390 200 396 258 398 306 C410 365 377 391 356 461 M402 299 C458 338 470 399 482 461 M395 352 C330 376 305 411 291 468" fill="none" stroke="#428a81" stroke-width="12" stroke-linecap="round"/>
+<path d="M396 228 C317 203 258 149 272 104 C341 79 391 153 396 228Z" fill="url(#leaf)"/><path d="M404 223 C471 156 538 117 581 142 C580 212 500 245 404 223Z" fill="url(#leaf)"/>
+<path d="M397 250 V305" stroke="#2a716d" stroke-width="11"/>
+<g fill="#e8b960" stroke="#fff" stroke-width="5"><circle cx="145" cy="320" r="17"/><circle cx="201" cy="358" r="14"/><circle cx="570" cy="354" r="18"/><circle cx="637" cy="411" r="13"/></g>
+<g stroke="#16869b" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M171 317 L317 335"/><path d="M301 320 L322 336 L300 348"/><path d="M582 361 L472 388"/><path d="M497 369 L468 389 L505 399"/></g>
+<g fill="#357f97" opacity=".7"><circle cx="126" cy="274" r="7"/><circle cx="667" cy="320" r="9"/><circle cx="246" cy="433" r="8"/></g></svg>

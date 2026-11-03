@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resources on Plant IDEA Lab</title>
+		<link>https://plant-idea.cc/resources/</link>
+		<description>Recent content in Resources on Plant IDEA Lab</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="https://plant-idea.cc/resources/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IPNbase</title>
+				<link>https://plant-idea.cc/resources/ipnbase/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/resources/ipnbase/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Access:&lt;/strong&gt; &lt;a href=&#34;https://ipn.plant-idea.cc&#34;&gt;IPNbase&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PhytoStress</title>
+				<link>https://plant-idea.cc/resources/phytostress/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/resources/phytostress/</guid>
+				<description>&lt;p&gt;A portal for comparative investigation of plant stress responses.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Access:&lt;/strong&gt; &lt;a href=&#34;https://phytostress.plant-idea.cc&#34;&gt;PhytoStress&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PhytobodyDB</title>
+				<link>https://plant-idea.cc/resources/phytobodydb/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plant-idea.cc/resources/phytobodydb/</guid>
+				<description>&lt;p&gt;An emerging resource for plant-targeted antibody design and related research. Coming soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Access:&lt;/strong&gt; Coming soon.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
